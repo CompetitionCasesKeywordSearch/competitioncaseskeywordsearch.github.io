@@ -216,3 +216,8 @@ button{
 button:hover{
     background-color: rgb(25, 0, 168);
 }
+
+a {
+    font-size: 15px;
+    color: rgb(136, 35, 237);
+}
