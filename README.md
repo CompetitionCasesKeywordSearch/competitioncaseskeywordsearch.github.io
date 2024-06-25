@@ -1,3 +1,5 @@
+[![Maintenance](https://img.shields.io/maintenance/yes/2024)](https://github.com/ShriyanYamali/ShriyanYamali.github.io)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # competitioncaseskeywordsearch.github.io
 Keyword search for competition cases by the European Commission. 
 <br>
