@@ -6,4 +6,5 @@ Keyword search for competition cases by the European Commission.
 Created by Shriyan Yamali
 <br>
 Website at <a href="https://shriyanyamali.github.io/">https://shriyanyamali.github.io/</a>
+<br>
 For questions reach out to srujanshriyan@gmail.com.
