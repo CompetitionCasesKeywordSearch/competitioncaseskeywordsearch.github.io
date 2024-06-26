@@ -7,4 +7,4 @@ Created by Shriyan Yamali
 <br>
 Check out my website at <a href="https://shriyanyamali.github.io/">https://shriyanyamali.github.io/</a>
 <br>
-For questions reach out to srujanshriyan@gmail.com.
+For questions reach out to srujanshriyan@gmail.com
