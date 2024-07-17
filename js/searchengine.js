@@ -115,7 +115,9 @@ document.getElementById('root').innerHTML = items.map(item => {
           <div class='bottom'>
               <h2>Case Number: ${case_number ? case_number : ''}</h2>
               <br>
-              <h2>Link to Case: <a href='${link}' target="_blank">${link}</a></h2>
+              <h2>Link to Case: <a class="case-link" href='https://competition-cases.ec.europa.eu/cases/${case_number}' target="_blank">https://competition-cases.ec.europa.eu/cases/${case_number}</a></h2>
+              <br>
+              <h2>Link to Decision Text: <a class="dt-link" href='${link}' target="_blank">${link}</a></h2>
               <br>
               <h2>Topic: ${topic ? topic : ''}<h2>
               <br>
