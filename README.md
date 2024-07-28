@@ -8,3 +8,5 @@ Created by Shriyan Yamali
 Check out my website at <a href="https://shriyanyamali.github.io/">https://shriyanyamali.github.io/</a>
 <br>
 For questions reach out to srujanshriyan@gmail.com
+
+Copyright © 2024 Shriyan Yamali All rights reserved.
